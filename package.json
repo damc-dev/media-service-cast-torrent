@@ -1,0 +1,15 @@
+{
+  "name": "media-service-cast-torrent",
+  "version": "1.0.0",
+  "description": "Uses castnow to stream torrents to Chrome Cast",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David McElligott",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.3",
+    "peercast": "^1.1.2"
+  }
+}
